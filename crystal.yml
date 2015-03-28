@@ -1,0 +1,8 @@
+name: cc0-license
+version: 0.1.0
+description: Creative Commons Zero v1.0 Universal License generator
+
+gen:
+  file:
+    license:
+      dest: LICENSE
