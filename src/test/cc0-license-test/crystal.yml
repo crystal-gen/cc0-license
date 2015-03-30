@@ -1,0 +1,7 @@
+name: cc0-license-test
+version: 0.1.0
+description: cc0-license test
+
+generators:
+  cc0-license:
+    version: latest
